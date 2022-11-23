@@ -1,0 +1,9 @@
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/bin/Debug/netcoreapp3.1/Clays.app.DataAccess.deps.json
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/bin/Debug/netcoreapp3.1/Clays.app.DataAccess.dll
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/bin/Debug/netcoreapp3.1/Clays.app.DataAccess.pdb
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.csprojAssemblyReference.cache
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.AssemblyInfoInputs.cache
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.AssemblyInfo.cs
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.csproj.CoreCompileInputs.cache
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.dll
+/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/Debug/netcoreapp3.1/Clays.app.DataAccess.pdb

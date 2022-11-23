@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sathya/Projects/Clay.Interview/Clay.App.Test/Clay.App.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/Clay.App.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/Clay.App.Api.csproj",
+        "projectName": "Clay.App.Api",
+        "projectPath": "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/Clay.App.Api.csproj",
+        "packagesPath": "/Users/sathya/.nuget/packages/",
+        "outputPath": "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sathya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/Clays.App.Domain.csproj": {
+                "projectPath": "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/Clays.App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.425/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sathya/Projects/Clay.Interview/Clay.App.Test/Clay.App.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sathya/Projects/Clay.Interview/Clay.App.Test/Clay.App.Test.csproj",
+        "projectName": "Clay.App.Test",
+        "projectPath": "/Users/sathya/Projects/Clay.Interview/Clay.App.Test/Clay.App.Test.csproj",
+        "packagesPath": "/Users/sathya/.nuget/packages/",
+        "outputPath": "/Users/sathya/Projects/Clay.Interview/Clay.App.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sathya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/Clay.App.Api.csproj": {
+                "projectPath": "/Users/sathya/Projects/Clay.Interview/Clay.App.Api/Clay.App.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.425/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/Clays.app.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/Clays.app.DataAccess.csproj",
+        "projectName": "Clays.app.DataAccess",
+        "projectPath": "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/Clays.app.DataAccess.csproj",
+        "packagesPath": "/Users/sathya/.nuget/packages/",
+        "outputPath": "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sathya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.425/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/Clays.App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/Clays.App.Domain.csproj",
+        "projectName": "Clays.App.Domain",
+        "projectPath": "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/Clays.App.Domain.csproj",
+        "packagesPath": "/Users/sathya/.nuget/packages/",
+        "outputPath": "/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sathya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/Clays.app.DataAccess.csproj": {
+                "projectPath": "/Users/sathya/Projects/Clay.Interview/Clays.app.DataAccess/Clays.app.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.425/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

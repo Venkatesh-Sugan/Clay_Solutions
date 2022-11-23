@@ -1,0 +1,12 @@
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/bin/Debug/netcoreapp3.1/Clays.App.Domain.deps.json
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/bin/Debug/netcoreapp3.1/Clays.App.Domain.dll
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/bin/Debug/netcoreapp3.1/Clays.App.Domain.pdb
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/bin/Debug/netcoreapp3.1/Clays.app.DataAccess.dll
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/bin/Debug/netcoreapp3.1/Clays.app.DataAccess.pdb
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.csprojAssemblyReference.cache
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.AssemblyInfoInputs.cache
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.AssemblyInfo.cs
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.csproj.CoreCompileInputs.cache
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.csproj.CopyComplete
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.dll
+/Users/sathya/Projects/Clay.Interview/Clays.App.Domain/obj/Debug/netcoreapp3.1/Clays.App.Domain.pdb
